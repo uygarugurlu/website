@@ -11,7 +11,6 @@ import publicRuntimeConfig from "./config/publicRuntimeConfig"
 
 /* Import specific module options */
 import vite from "./config/modules/vite"
-import feed from "./config/modules/feed"
 
 /* Types */
 import { NuxtConfig } from "@nuxt/types"
@@ -35,8 +34,7 @@ const Config: NuxtConfig = {
   publicRuntimeConfig,
 
   // Modules
-  vite,
-  feed,
+  vite
 }
 
 export default Config

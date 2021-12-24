@@ -22,9 +22,6 @@ const Config: NuxtConfig = {
   srcDir: "src",
   target: "static",
   ssr: true,
-  server: {
-    port: 80,
-},
 
   // Imported options
   head,

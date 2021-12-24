@@ -23,7 +23,7 @@ const Config: NuxtConfig = {
   target: "static",
   ssr: true,
   server: {
-    port: 3000,
+    port: 80,
 },
 
   // Imported options

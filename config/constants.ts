@@ -3,6 +3,6 @@ export default {
     twitter: "https://twitter.com/uuygarugurlu/",
     github: "https://github.com/uygarugurlu/",
     instagram: "https://instagram.com/uuygarugurlu/",
-    email: "root@uygarugurlu.com.tr",
+    email: "uuygarugurlu@icloud.com",
   },
 }

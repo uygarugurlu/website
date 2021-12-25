@@ -1,33 +1,22 @@
 {
-  "name": "eggsy-website",
-  "description": "EGGSY's personal website made in TypeScript, Nuxt.js and Windi/Tailwind CSS",
+  "name": "uygarugurlu-website",
+  "description": "Uygar's personal website made in TypeScript, Nuxt.js and Windi/Tailwind CSS",
   "license": "MIT",
   "version": "4.5.0",
-  "homepage": "https://eggsy.xyz",
-  "readme": "https://github.com/eggsy/website#readme",
+  "homepage": "https://uygarugurlu.com.tr"
   "author": {
-    "name": "Abdulbaki Dursun",
-    "email": "eggsydev@gmail.com",
-    "url": "https://eggsy.xyz"
+    "name": "Uygar UĞURLU",
+    "email": "uuygarugurlu@icloud.com",
+    "url": "https://uygarugurlu.com.tr"
   },
   "bugs": {
-    "email": "eggsydev@gmail.com",
-    "url": "https://github.com/eggsy/website/issues"
+    "email": "uuygarugurlu@icloud.com",
+    "url": "https://github.com/uygarugurlu/website/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eggsy/website.git"
+    "url": "https://github.com/uygarugurlu/website.git"
   },
-  "funding": [
-    {
-      "type": "individual",
-      "url": "https://eggsy.xyz/donate"
-    },
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/eggsy"
-    }
-  ],
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

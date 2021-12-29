@@ -34,9 +34,8 @@ export default Vue.extend({
       // Spotify
       else if (filtered.name === "Spotify" && !!lanyard.spotify) {
         const { song, artist } = lanyard.spotify || {}
-        const firstArtist = artist?.split("; ")?.[0];
 
-        return `Listening to **${song}** by **${firstArtist || 'someone'}**`
+        return `Listening to **${song}** by **${artist || 'someone'}**`
       }
       // Visual Studio Code
       else if (filtered.name === "Visual Studio Code") {

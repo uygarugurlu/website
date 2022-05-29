@@ -33,8 +33,8 @@ export default Vue.extend({
           {
             title: "Gölbaşı MTAL",
             url: "https://golbasimtal.meb.k12.tr",
-            position: "Network systems",
-            date: "2016 - coming soon",
+            position: "Network systems & cyber security",
+            date: "2016 - 2022",
           },
         ],
       } as ExperienceObject,

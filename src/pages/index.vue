@@ -73,7 +73,7 @@ export default Vue.extend({
       <div class="md:w-8/12">
         <div class="space-y-2">
           <div
-            class="font-semibold text-xl text-gray-900 md:text-3xl dark:text-neutral-200"
+            class="font-extrabold text-transparent text-1xl bg-clip-text bg-gradient-to-r from-teal-400 to-purple-300"
           >
             <h1>Self taught</h1>
             <h1><span class="font-extrabold text-transparent text-2xl bg-clip-text bg-gradient-to-r from-purple-300 to-pink-500">Web Application developer</span></h1>

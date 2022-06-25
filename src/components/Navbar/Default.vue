@@ -87,7 +87,7 @@ export default Vue.extend({
             class="rounded-md bg-gray-100 ring-black transition-transform ring-2 ring-opacity-5 sm:transform hover:-rotate-6"
             width="100"
             height="100"
-            title="U & U's Website"
+            title="Uygar Uğurlu's Website"
           />
         </SmartLink>
 

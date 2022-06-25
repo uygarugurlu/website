@@ -55,7 +55,7 @@ export default Vue.extend({
      * Optimizes images and returns optimized image URL.
      */
     getBackgroundUrl(): string {
-      if (this.error === true || !this.src) return "/assets/icons/icon.png"
+      if (this.error === true || !this.src) return "/assets/icons/icon.svg"
 
       const { format, height, width, fit, src } = this
 

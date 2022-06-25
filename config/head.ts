@@ -1,7 +1,7 @@
 import { NuxtOptionsHead } from "@nuxt/types/config/head"
 
 /* Define constants */
-const image = "/assets/icons/icon.png"
+const image = "/assets/icons/icon.svg"
 const description =
   "Young web application developer from Turkey, interested in programming, trying to improve his JavaScript skills!"
 
